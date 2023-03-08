@@ -1,0 +1,15 @@
+/Users/guipeppi/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora
+/Users/guipeppi/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora.deps.json
+/Users/guipeppi/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora.runtimeconfig.json
+/Users/guipeppi/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora.dll
+/Users/guipeppi/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora.pdb
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.csproj.AssemblyReference.cache
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.AssemblyInfoInputs.cache
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.AssemblyInfo.cs
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.csproj.CoreCompileInputs.cache
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.dll
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/refint/calculadora.dll
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.pdb
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.genruntimeconfig.cache
+/Users/guipeppi/Projects/calculadora/calculadora/obj/Debug/net7.0/ref/calculadora.dll
